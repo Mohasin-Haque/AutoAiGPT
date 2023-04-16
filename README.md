@@ -1,13 +1,13 @@
 # AutoAiGPT Website
 
 **Set Your Goals, AI Achieves Them.**
-In everyday life, every person has to play a certain role and wants to achieve certain goals. However, often a lot of time is wasted in finalizing ideas and goals. To address this issue, we have created a GPT model called AutoGPT. Simply provide it with a role and associated goals, and it will create a plan to help you achieve them.
+In everyday life, every person has to play a certain role and wants to achieve certain goals. However, often a lot of time is wasted in finalizing ideas and goals. To address this issue, we have created a GPT model called AutoAiGPT. Simply provide it with a role and associated goals, and it will create a plan to help you achieve them.
 <br />
-For example, if we assign the role of an entrepreneur with a goal of earning 5 crore in 5 years, AutoGPT will provide its thoughts based on ChatGPT, present a plan, explain the reasoning behind the plan, and provide critiques of the overall output. Even if the plan goes wrong, AutoGPT will correct it and adjust future plans accordingly.
+For example, if we assign the role of an entrepreneur with a goal of earning 5 crore in 5 years, AutoAiGPT will provide its thoughts based on ChatGPT, present a plan, explain the reasoning behind the plan, and provide critiques of the overall output. Even if the plan goes wrong, AutoAiGPT will correct it and adjust future plans accordingly.
 
 Inspired by [Auto-GPT](https://github.com/Torantulino/Auto-GPT).
 
-![Demo screenshot](.github/static/demo.gif)
+![Demo SS](https://user-images.githubusercontent.com/72180173/232259738-cd0343da-0cdf-456a-af40-c7dde400e431.png)
 
 ## Features
 
