@@ -35,4 +35,4 @@ NOTE :- We are provideing sample API keys.
 - All of your credentials will be saved in your local browser **ONLY** and be sent to the providers (OpenAI, Google Search API...) when necessary. You can remove them completely anytime.
 - All of your chat history will be saved in your local browser **ONLY**. You can remove them completely anytime.
 
-## [Development](./CONTRIBUTING.md)
+## Want to Run locally? Click [here](./CONTRIBUTING.md)
