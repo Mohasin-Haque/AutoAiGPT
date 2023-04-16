@@ -3359,6 +3359,9 @@ precacheAndRoute([{
 }, {
   "url": "icons/safari-pinned-tab.svg",
   "revision": "3e4c3730b00c89591de9505efb73afd3"
+}, {
+  "url": "index.html",
+  "revision": "c99773cf400a3c48710aba07f2cb9f49"
 }], {});
 cleanupOutdatedCaches();
 //# sourceMappingURL=sw.js.map
