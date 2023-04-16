@@ -31,7 +31,7 @@ NOTE :- We are provideing sample API keys.
 
 ## Security
 
-- We are not storing any of your data in any of our database.
+- * Desclaimer * We are not storing any of your data in any of our database.
 - All of your credentials will be saved in your local browser **ONLY** and be sent to the providers (OpenAI, Google Search API...) when necessary. You can remove them completely anytime.
 - All of your chat history will be saved in your local browser **ONLY**. You can remove them completely anytime.
 
